@@ -1,0 +1,14 @@
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\bin\Debug\S4-TSE-Create.exe.config
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\bin\Debug\S4-TSE-Create.exe
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\bin\Debug\S4-TSE-Create.pdb
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\bin\Debug\S4-TSE-Create.xml
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4-TSE-Create.vbprojResolveAssemblyReference.cache
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\Interop.S4.dll
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4-TSE-Create.vbproj.ResolveComReference.cache
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4_TSE_Create.App_info.resources
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4_TSE_Create.Form1.resources
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4_TSE_Create.Resources.resources
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4-TSE-Create.vbproj.GenerateResource.Cache
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4-TSE-Create.exe
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4-TSE-Create.xml
+c:\users\aidarhanov.n.veza-spb\Cloud Maill\VisualStudio\S4-TSE-Create\S4-TSE-Create\obj\Debug\S4-TSE-Create.pdb
