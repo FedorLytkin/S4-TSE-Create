@@ -8,18 +8,123 @@ S4-TSE-Create
 <members>
 <member name="T:S4_TSE_Create.My.Resources.Resources">
 <summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
 </summary>
 </member>
 <member name="P:S4_TSE_Create.My.Resources.Resources.ResourceManager">
 <summary>
-  Returns the cached ResourceManager instance used by this class.
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
 </summary>
 </member>
 <member name="P:S4_TSE_Create.My.Resources.Resources.Culture">
 <summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources._1024px_Edit_clear_svg">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources._3">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.AutoCAD">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.DWG2">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.DWG4">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.DXF">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.DXF1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.eO55OzwwMNs">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.file_search_icon">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.img_2018_06_19_16_08_37">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.magnifier">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.MechObj">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.Objects">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.PART">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.PART1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.Tc_ii">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.TpShow">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.TсView">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.TсView1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.UNKNOWN">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:S4_TSE_Create.My.Resources.Resources.Открыть_древов_ВСНРМ3">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
 </summary>
 </member>
 </members>
